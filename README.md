@@ -1,50 +1,32 @@
-# Welcome to your Expo app 👋
+# MDandMe Take Home: List of Posts
+![! Post 1 (httpsgithub commadelinetharptake-homeassets89538026b45ec730-d2ef-4e70-b287-e67abea2fa69 =250x) ! Post 2 (httpsgithub commadelinetharptake-homeassets895380265257c2a3-ec27-463f-a221-4ce8e6](https://github.com/madelinetharp/take-home/assets/89538026/69b020dc-3f22-4f4d-ae86-c01970932201) 
+Screenshots from iOS deployment in Expo Go
+## Tasks Completed
+- :white_check_mark: Built with React Native + Expo
+- :white_check_mark: Infinite Scroll
+- :white_check_mark: Hug Interaction
+- :white_check_mark: Comments Display
+- :white_check_mark: Commenting Feature
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+## Setup Instructions
 
-1. Install dependencies
+1. Clone the repository
 
    ```bash
-   npm install
+    gh repo clone madelinetharp/take-home
    ```
 
-2. Start the app
+2. Navigate to the project directory
 
+   ```bash
+    cd take-home
+   ```
+3. Install dependencies
+   ```bash
+    npm install
+   ```
+4. Launch Expo
    ```bash
     npx expo start
    ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
